@@ -1,4 +1,7 @@
 # Maze
+
+HTML, CSS, JAVASCRIPT
+
 # Introduction
 Maze generator and pathfinding program is written in JavaScript and uses HTML canvas to display the maze and path. The user can input the size and number of rows and columns of the maze and the program will generate a random maze of those specifications. The user can then click on the "Solve" button to find the shortest path between the start and end points in the maze.
 # Output
